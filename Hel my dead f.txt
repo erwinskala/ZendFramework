@@ -1,2 +1,2 @@
-print(Hel my dead f)
-print(hel);
+print(Hel my dead f;)
+print(hel;);
